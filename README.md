@@ -9,7 +9,7 @@ The purpose of this Challenge is to imporve the web app by making it look good a
 
 
 ## Updated Web App with Mars Hemispheres and Titles (Deliverable 2)
-
+![Mars_Hemis](./Mars_Hemis.png)
 
 ## Bootstrap conponents (Deliverable 3)
 ### Background color, text color, and Jumbotron customization
@@ -17,3 +17,8 @@ The purpose of this Challenge is to imporve the web app by making it look good a
 ![Mars_Edits](./Mars_Mobile.png)
 
 # Resources
+- Jupyter Notebook 
+- Python 
+- MongoDB 
+- Visual Studio Code 
+- Flask 
