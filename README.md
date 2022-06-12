@@ -5,12 +5,15 @@ The purpose of this Challenge is to imporve the web app by making it look good a
 
 # Results 
 ## Hemisphere URLs for Images (Deliverable 1)
-(insert here)
+![Mars_URLs](./Mars_URLs.png)
+
 
 ## Updated Web App with Mars Hemispheres and Titles (Deliverable 2)
-(insert here)
+
 
 ## Bootstrap conponents (Deliverable 3)
 ### Background color, text color, and Jumbotron customization
-(insert here)
+![Mars_Edits](./Mars_Jumbotron.png)
+![Mars_Edits](./Mars_Mobile.png)
+
 # Resources
